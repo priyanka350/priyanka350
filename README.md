@@ -1,6 +1,6 @@
 # <p align="center">🌱 CULTIVATING IDEAS AND INNOVATIONS — LET'S GROW TOGETHER! 😄</p>
 
-<p align="center"><img src="Green Black Neon Cyber Security Video (2).gif" alt="HEY THERE!"></p>
+![github Banner](https://github.com/user-attachments/assets/44d60325-991a-472d-b608-bfa9d6d97816)
 
 ## 🦸‍♀️ Priyanka Kumari : Guardian of the Digital Citadel 🛡️✨
 
