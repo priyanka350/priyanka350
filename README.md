@@ -4,7 +4,7 @@
 
 ## 🦸‍♀️ Priyanka Kumari : Guardian of the Digital Citadel 🛡️✨
 
-<img align="right" width="250" src="https://media1.tenor.com/m/3QEtSuzDveAAAAAC/garfield-im-working.gif" alt="That's pretty much me!" />
+<img align="right" width="250" src="work.gif" alt="That's pretty much me!" />
 
 By day, I, Priyanka Kumari, am a 👨‍💻 B.Tech student, a warrior in training, wielding the tools of code and logic. But beneath the surface lies a burgeoning legend - **the Guardian of the Digital Citadel**.
 
