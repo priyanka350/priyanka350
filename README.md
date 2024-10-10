@@ -32,7 +32,7 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 - 🏅 **AICTE AI/ML & Cybersecurity**: Dual internship; built intelligent systems and mastered digital protection!
 - 🔒 **Cybersecurity Vocational Training**: Gained experience analyzing cybercrime incidents over four weeks at DVC Headquarters.
 - 🎭 **Deepfake Detection Model**: Developed a model to identify AI-generated content!
-- 💻 **GSSoC Contributions**: Enhanced skills while empowering fellow coders!
+- 💻 **GSSoC Contributions & HACKTOBERFEST**: Enhanced skills while empowering fellow coders!
 
 ---
 
