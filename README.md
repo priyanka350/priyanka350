@@ -32,7 +32,7 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 - 🏅 **AICTE AI/ML & Cybersecurity**: Dual internship; built intelligent systems and mastered digital protection!
 - 🔒 **Cybersecurity Vocational Training**: Gained experience analyzing cybercrime incidents over four weeks at DVC Headquarters.
 - 🎭 **Deepfake Detection Model**: Developed a model to identify AI-generated content!
-- 💻 **GSSoC Contributions & HACKTOBERFEST**: Enhanced skills while empowering fellow coders!
+- 💻 **GSSoC extd Contributions & HACKTOBERFEST**: Enhanced skills while empowering fellow coders!
 
 ---
 
@@ -85,7 +85,7 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
   <br><br>
   <a href="mailto:priyanka.tmsl2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff3625" alt="Email">
-</a><a href="https://twitter.com/prikri0"><img src="https://img.shields.io/twitter/follow/PriyankaKumari01?style=social" alt="Twitter Followers"></a>
+</a><a href="https://twitter.com/prikri0"><img src="https://img.shields.io/twitter/follow/prikri0?style=social" alt="Twitter Followers"></a>
   <a href="https://www.linkedin.com/in/priyanka345/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
