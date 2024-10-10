@@ -1,4 +1,4 @@
-# <p align="center">🌱 CULTIVATING IDEAS AND INNOVATIONS — LET'S GROW TOGETHER! 😄</p>
+# <p align="center">🌱 CULTIVATING IDEAS AND INNOVATIONS ? LET'S GROW TOGETHER! 😄</p>
 
 ![github Banner](https://github.com/user-attachments/assets/44d60325-991a-472d-b608-bfa9d6d97816)
 
@@ -30,7 +30,7 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 ✨ Here are some highlights of my journey so far:
 
 - 🏅 **AICTE AI/ML & Cybersecurity**: Dual internship; built intelligent systems and mastered digital protection!
-- 🔒 Cybersecurity Vocational Training: Gained experience analyzing cybercrime incidents over four weeks at DVC Headquarters.
+- 🔒 **Cybersecurity Vocational Training**: Gained experience analyzing cybercrime incidents over four weeks at DVC Headquarters.
 - 🎭 **Deepfake Detection Model**: Developed a model to identify AI-generated content!
 - 💻 **GSSoC Contributions**: Enhanced skills while empowering fellow coders!
 
