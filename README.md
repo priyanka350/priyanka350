@@ -25,17 +25,6 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 
 ---
 
-## 🏆 Achievements
-
-✨ Here are some highlights of my journey so far:
-
-- 🏅 **AICTE AI/ML & Cybersecurity**: Dual internship; built intelligent systems and mastered digital protection!
-- 🔒 **Cybersecurity Vocational Training**: Gained experience analyzing cybercrime incidents over four weeks at DVC Headquarters.
-- 🎭 **Deepfake Detection Model**: Developed a model to identify AI-generated content!
-- 💻 **GSSoC extd Contributions & HACKTOBERFEST**: Enhanced skills while empowering fellow coders!
-
----
-
 ## 🛠️ Technologies in My Toolbox
 
 <p align="center">
