@@ -52,6 +52,19 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 
 ---
 
+## Gssoc & Hacktoberfest 💡
+
+<img src="" height=200px>
+
+<br>
+
+<img src="" height=200px>
+<img src="" height=200px>
+<img src="" height=200px>
+<img src="" height=200px>
+
+---
+
 ## 📊 My GitHub Story in Numbers 
 
 <div align="center">
