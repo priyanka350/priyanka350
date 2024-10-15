@@ -19,9 +19,10 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 
 ## 🌍 Projects I've Brought to Life
 
-- **Netflix Clone** : Developed a responsive web interface resembling Netflix using HTML and CSS 📺✨.
-  
-- **Cybersecurity Report** : Conducted an in-depth analysis of the Colonial Pipeline ransomware attack and the Bangladesh Bank robbery, focusing on vulnerabilities and mitigation strategies 📊🔍.
+| 🎯 **PROJECTS**              | 💡 **DESCRIPTION**                                                                                                      | 🔗 **Link**      |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------|
+| **Netflix Clone**            | Developed a responsive web interface resembling Netflix using **HTML** and **CSS** 📺✨                                   | [Link](https://netflixclone-iota-eight.vercel.app/) |
+| **Cybersecurity Report**     | In-depth analysis of the **Colonial Pipeline ransomware attack** and **Bangladesh Bank robbery**, highlighting vulnerabilities and mitigation strategies 📊🔍 | [View Report](https://github.com/priyanka350/CyberSecurity-Case-Study/blob/main/Report.pdf) |
 
 ---
 
