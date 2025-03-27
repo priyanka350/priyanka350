@@ -61,7 +61,8 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 
 ## 💡Gssoc & Hacktoberfest 
 
-<p align="center"><img src="Share Badge.png" height=150px><img src="level0-sloth-hello-0-0-0-0.png" height=150px> <img src="level1-sloth-hello-0-0-0-0.png" height=150px> <img src="level2-sloth-hello-0-0-0-0.png" height=150px> <img src="level3-sloth-hello-0-0-0-0.png" height=150px> <img src="level4-sloth-hello-0-0-0-0.png" height=150px></p>
+<p align="center"><img src="Share Badge.png" height=200px>
+ <br> <img src="level0-sloth-hello-0-0-0-0.png" height=160px> <img src="level1-sloth-hello-0-0-0-0.png" height=160px> <img src="level2-sloth-hello-0-0-0-0.png" height=160px> <img src="level3-sloth-hello-0-0-0-0.png" height=160px> <img src="level4-sloth-hello-0-0-0-0.png" height=160px></p>
 
 ---
 
