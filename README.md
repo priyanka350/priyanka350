@@ -23,6 +23,7 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------|
 | **Netflix Clone**            | Developed a responsive web interface resembling Netflix using **HTML** and **CSS** 📺✨                                   | [Link](https://netflixclone-iota-eight.vercel.app/) |
 | **Cybersecurity Report**     | In-depth analysis of the **Colonial Pipeline ransomware attack** and **Bangladesh Bank robbery**, highlighting vulnerabilities and mitigation strategies 📊🔍 | [View Report](https://github.com/priyanka350/CyberSecurity-Case-Study/blob/main/Report.pdf) |
+|**Lunora Music Player**| Built Lunora, a local music player using HTML, CSS, and JavaScript with album-based playback 🎶🖥️ |[Link](https://lunora-music-player.vercel.app/)|
 
 ---
 
