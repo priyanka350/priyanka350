@@ -73,6 +73,7 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanka350&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanka350&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka350&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200">
 </div>
 
 ---
