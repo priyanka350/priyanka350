@@ -21,36 +21,88 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 
 | 🎯 **PROJECTS**              | 💡 **DESCRIPTION**                                                                                                      | 🔗 **Link**      |
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------|
+| **Deepfake Face Detection**  | Designed a deep learning model combining **LSTM** and **RNN** to detect deepfake media with **92% accuracy**. Tech: Python, TensorFlow, OpenCV 🧠📹 |[Link](#) |
 | **Netflix Clone**            | Developed a responsive web interface resembling Netflix using **HTML** and **CSS** 📺✨                                   | [Link](https://netflixclone-iota-eight.vercel.app/) |
 | **Cybersecurity Report**     | In-depth analysis of the **Colonial Pipeline ransomware attack** and **Bangladesh Bank robbery**, highlighting vulnerabilities and mitigation strategies 📊🔍 | [View Report](https://github.com/priyanka350/CyberSecurity-Case-Study/blob/main/Report.pdf) |
-|**Lunora Music Player**| Built Lunora, a local music player using HTML, CSS, and JavaScript with album-based playback 🎶🖥️ |[Link](https://lunora-music-player.vercel.app/)|
+| **Lunora Music Player**      | Built Lunora, a local music player using HTML, CSS, and JavaScript with album-based playback 🎶🖥️                         | [Link](https://lunora-music-player.vercel.app/) |
+| **X.com (Twitter) Clone**    | A responsive **Twitter-style UI clone** built using **Tailwind CSS**. *(Work in progress)* 🐦🛠️                           | *Coming soon* |
+
 
 ---
 
 ## 🛠️ Technologies in My Toolbox
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%2320232A.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/chromadb-%23FF4500.svg?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/netlify-%23F05F40.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-%23121011.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/scipy-%230E4B8E.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F20.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</p>
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Web & Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+      <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI / ML</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
+      <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+      <img src="https://img.shields.io/badge/SciPy-%230E4B8E.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+      <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>UI / Design</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+      <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+      <img src="https://img.shields.io/badge/ChromaDB-%23FF4500.svg?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
