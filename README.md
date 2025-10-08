@@ -1,6 +1,6 @@
 # <p align="center">🌱 CULTIVATING IDEAS AND INNOVATIONS ? LET'S GROW TOGETHER! 😄</p>
 
-![2](https://github.com/user-attachments/assets/2daac588-77db-4aab-9728-37f67505f1e9)
+<img width="1266" height="315" alt="Picture3g" src="https://github.com/user-attachments/assets/74960701-7ce0-438d-9504-38e2547267c3" />
 
 ## 🦸‍♀️ Priyanka Kumari : Guardian of the Digital Citadel 🛡️✨
 
@@ -9,7 +9,7 @@
 By day, I, Priyanka Kumari, am a 👨‍💻 B.Tech student, a warrior in training, wielding the tools of code and logic. But beneath the surface lies a burgeoning legend - **the Guardian of the Digital Citadel**.
 
 Her domain? 
-- The ever-shifting landscape of the internet 🌐, where innovation and danger weave a tangled web. Priyanka navigates this frontier with the keen eye of a **CLOUD SECURITY SPECIALIST** ☁️🔒, safeguarding the secrets held within the digital vaults.
+- The ever-shifting landscape of the internet 🌐, where innovation and danger weave a tangled web. Priyanka navigates this frontier with the keen eye of a **CYBER SECURITY SPECIALIST** 🔒, safeguarding the secrets held within the digital vaults.
 - But her arsenal holds more than firewalls and encryption. Fueled by an insatiable curiosity, Priyanka delves into the arcane arts of **AI and MACHINE LEARNING** 🤖. She crafts intricate algorithms, forging powerful defenses to ensure that truth prevails in the digital realm
 - Her hands weave magic of another kind - crafting dynamic, responsive **WEB APPLICATIONS** 💻🎨. These are not mere programs, but vibrant tapestries that bridge the gap between humans and technology.
 
