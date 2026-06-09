@@ -1,6 +1,6 @@
 # <p align="center">🌱 CULTIVATING IDEAS AND INNOVATIONS ? LET'S GROW TOGETHER! 😄</p>
 
-<img width="1266" height="315" alt="Picture3g" src="https://github.com/user-attachments/assets/74960701-7ce0-438d-9504-38e2547267c3" />
+<img width="1266" height="315" alt="Picture3g" src="https://github.com/user-attachments/assets/790e283e-fb35-4959-bbb1-85a0571ce03d" />
 
 ## 🦸‍♀️ Priyanka Kumari : Guardian of the Digital Citadel 🛡️✨
 
