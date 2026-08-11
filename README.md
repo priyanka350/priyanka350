@@ -107,16 +107,43 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 
 ---
 
-## 🎖 Google Cybersecurity Badge
+<table>
+<tr>
+<td align="center">
 
-<p align="center"><img src="google-cybersecurity-certificate-v2.png" style="height:200px;"></p>
+<h2>🎖 Google Cybersecurity Badge</h2>
+
+<p>
+<img src="google-cybersecurity-certificate-v2.png" height="200">
+</p>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+</td>
+
+<td align="center">
+
+<h2>💡 GSSoC</h2>
+
+<p>
+<img src="Share Badge.png" height="200">
+</p>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
+## 🎃 Hacktoberfest 
 
-## 💡Gssoc & Hacktoberfest 
-
-<p align="center"><img src="Share Badge.png" style="height:200px;">
- <br> <img src="level0-sloth-hello-0-0-0-0.png" style="height:160px;"> <img src="level1-sloth-hello-0-0-0-0.png" style="height:160px;"> <img src="level2-sloth-hello-0-0-0-0.png" style="height:160px;"> <img src="level3-sloth-hello-0-0-0-0.png" style="height:160px;"> <img src="level4-sloth-hello-0-0-0-0.png" style="height:160px;"></p>
+<p align="center">
+<img src="level0-sloth-hello-0-0-0-0.png" style="height:160px;"> <img src="level1-sloth-hello-0-0-0-0.png" style="height:160px;"> <img src="level2-sloth-hello-0-0-0-0.png" style="height:160px;"> <img src="level3-sloth-hello-0-0-0-0.png" style="height:160px;"> <img src="level4-sloth-hello-0-0-0-0.png" style="height:160px;"></p>
 
 ---
 
@@ -127,7 +154,6 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanka350&theme=tokyonight" style="height:200px; border:2px solid white;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka350&theme=tokyonight&hide_border=true" style="height:200px;""><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka350&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height:200px;">
 </p>
 
 </div>
