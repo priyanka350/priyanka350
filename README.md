@@ -107,7 +107,8 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 
 ---
 
-
+<div align="center">
+  
 <table>
 <tr>
 <td align="center">
@@ -140,6 +141,7 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
 </tr>
 </table>
 
+</div>
 
 ---
 
