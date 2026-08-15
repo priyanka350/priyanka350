@@ -6,12 +6,12 @@
 
 <img align="right" width="250" src="work.gif" alt="That's pretty much me!" />
 
-By day, I, Priyanka Kumari, am a 👨‍💻 B.Tech student, a warrior in training, wielding the tools of code and logic. But beneath the surface lies a burgeoning legend - **the Guardian of the Digital Citadel**.
+By day, I, Priyanka Kumari, am a SWE at Product based Startup, 👨‍💻 B.Tech CSE (Cyber security), a warrior in training, wielding the tools of code and logic. But beneath the surface lies a burgeoning legend - **the Guardian of the Digital Citadel**.
 
 Her domain? 
 - The ever-shifting landscape of the internet 🌐, where innovation and danger weave a tangled web. Priyanka navigates this frontier with the keen eye of a **CYBER SECURITY SPECIALIST** 🔒, safeguarding the secrets held within the digital vaults.
 - But her arsenal holds more than firewalls and encryption. Fueled by an insatiable curiosity, Priyanka delves into the arcane arts of **AI and MACHINE LEARNING** 🤖. She crafts intricate algorithms, forging powerful defenses to ensure that truth prevails in the digital realm
-- Her hands weave magic of another kind - crafting dynamic, responsive **WEB APPLICATIONS** 💻🎨. These are not mere programs, but vibrant tapestries that bridge the gap between humans and technology.
+- The realm of scalable software and cloud infrastructure ☁️⚙️, where she engineers backend systems, automates deployments, and transforms data into reliable solutions. Armed with Python, AWS, GCP, SQL, BigQuery, and GitHub Actions, she builds systems that are as resilient as they are efficient.
 
 Priyanka's heart yearns for more than solitary defense; she dreams of collaboration with like-minded ADVENTURERS 🤝. Together, they will push boundaries and forge innovative solutions that propel technology toward a brighter future.
 
@@ -37,31 +37,42 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
   <tr>
     <td><strong>Programming Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
       <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
       <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     </td>
   </tr>
   <tr>
-    <td><strong>Web & Database</strong></td>
+    <td><strong>Backend & Database</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
       <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
       <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    </td>
+      <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/REST_API-%23009688.svg?style=for-the-badge" alt="REST API">
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+      <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery">
+      <img src="https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
+   </td>
   </tr>
   <tr>
-    <td><strong>DevOps & Platforms</strong></td>
+    <td><strong>Cloud & DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Amazon_SQS-%23FF9900.svg?style=for-the-badge&logo=amazonsqs&logoColor=white">
+      <img src="https://img.shields.io/badge/DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white">
+      <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white">
       <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
@@ -69,8 +80,17 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
     </td>
   </tr>
   <tr>
+    <td><strong>Cybersecurity</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+      <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
+   </td>
+  </tr>
+  <tr>
     <td><strong>AI / ML</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white">
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
       <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
       <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
@@ -93,14 +113,7 @@ Priyanka's heart yearns for more than solitary defense; she dreams of collaborat
       <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
       <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
     </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-      <img src="https://img.shields.io/badge/ChromaDB-%23FF4500.svg?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
-    </td>
-  </tr>
+  </tr>  
 </table>
 
 
